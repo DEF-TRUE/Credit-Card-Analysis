@@ -6,11 +6,11 @@ TOOLS USED :
 1) PowerBi
 2) SQL
 Objective to create the project :
-  # In order to have a strong command over PowerBI and SQL
-  # Understanding the Basics of PowerBI visualizations and tools
-  # To be able to do the descriptive analysis(What happened by analyzing the datas)
-  # Taking steps for diagnostic analysis and So on.
-  # To brainstorm our brain 
+  * In order to have a strong command over PowerBI and SQL
+  * Understanding the Basics of PowerBI visualizations and tools
+  * To be able to do the descriptive analysis(What happened by analyzing the datas)
+  * Taking steps for diagnostic analysis and So on.
+  * To brainstorm our brain 
 
   I hope you guys will love the project..Tune with me to get awesome projects later ... THATS FOR ALL TODAY !
 
