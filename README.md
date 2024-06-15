@@ -5,7 +5,7 @@ Credit Card.So at every week,new datas can be updated and it will automatically 
 TOOLS USED :
 1) PowerBi
 2) SQL
-Objective to create the project :
+ # Objective to create the project :
   * In order to have a strong command over PowerBI and SQL
   * Understanding the Basics of PowerBI visualizations and tools
   * To be able to do the descriptive analysis(What happened by analyzing the datas)
