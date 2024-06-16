@@ -1,4 +1,5 @@
-![Screenshot (14)](https://github.com/DEF-TRUE/Credit-Card-Analysis/assets/167519991/48c3e6e4-0294-4b5e-9cc3-d1c81d3af321)
+![Screenshot (14)](https://github.com/DEF-TRUE/Credit-Card-Analysis/assets/167519991/48c3e6e4-0294-4b5e-9cc3-d1c81d3af321)  ![Screenshot (15)](https://github.com/DEF-TRUE/Credit-Card-Analysis/assets/167519991/2f416a7d-2528-446a-b78a-b56bf5e801c1)
+
 
 
 
